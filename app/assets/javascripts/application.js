@@ -24,4 +24,3 @@
 //= require_tree .//views
 //= require_tree .//routers
 //= require app
-//= require_tree .
