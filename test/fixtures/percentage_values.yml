@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  country_id: 1
+  browser_id: 1
+  value: 1.5
+
+two:
+  country_id: 1
+  browser_id: 1
+  value: 1.5

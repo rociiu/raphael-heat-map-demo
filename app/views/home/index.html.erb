@@ -1,0 +1,6 @@
+<div id="world_map_container"></div>
+<script type="text/javascript">
+  $(function(){
+      new RaphaelMap.MapView({data: <%= raw @data.to_json %>, el: 'world_map_container'}).render()
+  })
+</script>
