@@ -43,3 +43,4 @@ gem 'backbone-on-rails'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+gem 'rack', git: 'git://github.com/rack/rack.git'
